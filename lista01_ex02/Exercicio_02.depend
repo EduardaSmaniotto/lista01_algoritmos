@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656613396 source:c:\users\ceia_____\desktop\lista01_connect\exercicio_02\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1656613396 source:c:\users\ceia_____\desktop\lista01_connect\lista01_ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+
